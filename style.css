@@ -17,10 +17,14 @@ body{
 }
 
 .innerBox{
-    border: solid pink;
+    background-color: black;
     flex: 1;
 }
 
 .hovers{
-    background-color: black;
+    background-color: white;
+}
+
+button{
+    margin-top: 20px;
 }
